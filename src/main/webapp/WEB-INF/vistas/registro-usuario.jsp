@@ -11,7 +11,7 @@
         <link rel="stylesheet" type="text/css" href="../../resources/css/bootstrap/css/bootstrap.min.css">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 <%--        <link rel="stylesheet" type="text/css" href="proyecto_limpio_spring_war_exploded/src/resources/css/index.css">--%>
-        <link rel="stylesheet" type="text/css" href="proyecto_limpio_spring_war_exploded/">
+        <link rel="stylesheet" type="text/css" href="../../resources/css/index.css">
         <link rel="icon" type="image/png" href="../../resources/images/icon.PNG">
     </head>
     <body>
@@ -32,7 +32,6 @@
 
                 <div class="collapse navbar-collapse  align-items-center" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
-<%--                        {{#esClient}}--%>
                         <li class="nav-item active">
                             <a class="nav-link" href="home">Home</a>
                         </li>
@@ -100,8 +99,6 @@
                             <select class="form-select" aria-label="Default select example" name="origen">
                                 <option selected disabled>Origen</option>
                                 <option value="">descripcion</option>
-
-
                             </select>
                         </div>
                         <div class="col-auto d-flex flex-row align-items-center">
@@ -129,11 +126,6 @@
                 </div>
             </article>
         </section>
-
-
-
-
-
 
 
 
