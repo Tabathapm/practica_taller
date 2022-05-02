@@ -11,7 +11,8 @@
         <link rel="stylesheet" type="text/css" href="../../resources/css/bootstrap/css/bootstrap.min.css">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 <%--        <link rel="stylesheet" type="text/css" href="proyecto_limpio_spring_war_exploded/src/resources/css/index.css">--%>
-        <link rel="stylesheet" type="text/css" href="../../resources/css/index.css">
+<%--        <link rel="stylesheet" type="text/css" href="../../resources/css/index.css">--%>
+        <link href="<c:url value="../../../css/index.css"/>" rel="stylesheet">
         <link rel="icon" type="image/png" href="../../resources/images/icon.PNG">
     </head>
     <body>
