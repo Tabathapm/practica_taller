@@ -8,11 +8,14 @@ nav{
 }
 
 .home{
-
-	height: 100vh;
+	margin-top: -50%;
 	background-size: cover;
-	background: url("../../resources/images/bg.jpg") center;
+	/*background: url("../images/bg.jpg") center;*/
 	width: 100%;
+}
+
+.viaje{
+	margin-top: 20%;
 }
 
 section h4{

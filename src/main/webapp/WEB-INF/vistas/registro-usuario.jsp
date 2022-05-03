@@ -8,12 +8,9 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Amaranth:wght@700&display=swap" rel="stylesheet">
-        <link rel="stylesheet" type="text/css" href="../../resources/css/bootstrap/css/bootstrap.min.css">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-<%--        <link rel="stylesheet" type="text/css" href="proyecto_limpio_spring_war_exploded/src/resources/css/index.css">--%>
-<%--        <link rel="stylesheet" type="text/css" href="../../resources/css/index.css">--%>
-        <link href="<c:url value="../../../css/index.css"/>" rel="stylesheet">
-        <link rel="icon" type="image/png" href="../../resources/images/icon.PNG">
+        <link rel="stylesheet" href="<c:url value="/css/index.css" />">
+        <link rel="icon" type="image/png" href="<c:url value="/images/icon.PNG"/>">
     </head>
     <body>
 
@@ -77,9 +74,9 @@
 <%--        ╚██████╗╚██████╔╝ ██║ ╚████║    ██║    ███████╗ ██║ ╚████║ ██║ ██████╔╝ ╚██████╔╝--%>
 <%--         ╚═════╝ ╚═════╝  ╚═╝  ╚═══╝    ╚═╝    ╚══════╝ ╚═╝  ╚═══╝ ╚═╝ ╚═════╝   ╚═════╝--%>
 
-        <section class="container-fluid w-100 d-flex justify-content-center align-items-center home">
+        <img src="<c:url value="/images/bg.jpg" />" style="margin-top: 63px;width: 100%;">
+        <section class="container-fluid w-100 d-flex justify-content-center align-items-center home" style="margin-top: -50%;">
             <article class="d-flex justify-content-center d-flex flex-column">
-                <img src="../../resources/images/centro-medico/Ankara.jpg ">
                 <h1 class="m-auto text-light mb-3" style="">Mundo Turismo Espacial</h1>
                 <h5 class="m-auto text-light mb-3">Viaja con nosotros y vivi una gran experiencia</h5>
                 <div class="d-flex justify-content-center d-flex flex-row mt-4 botones">

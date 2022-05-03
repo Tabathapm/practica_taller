@@ -4,11 +4,14 @@
 <html>
 	<head>
 		<!-- Bootstrap core CSS -->
-		<link href="<c:url value="/css/bootstrap.min.css"/>" rel="stylesheet">
+<%--		<link href="<c:url value="resources/css/bootstrap.min.css"/>" rel="stylesheet">--%>
 <%--		<link href="css/bootstrap.min.css" rel="stylesheet" >--%>
 		<!-- Bootstrap theme -->
-		<link href="<c:url value="/css/bootstrap-theme.min.css"/>" rel="stylesheet">
+<%--		<link href="<c:url value="resources/css/bootstrap-theme.min.css"/>" rel="stylesheet">--%>
 <%--		<link href="css/bootstrap-theme.min.css" rel="stylesheet">--%>
+
+		<link rel="stylesheet" href="<c:url value="/css/bootstrap.min.css" />">
+		<link rel="stylesheet" href="<c:url value="/css/bootstrap-theme.min.css" />">
 	</head>
 	<body>
 		<div class = "container">
