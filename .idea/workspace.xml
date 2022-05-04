@@ -11,32 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0710c379-e97b-4a16-8bff-50d42a38f420" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/spring-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/vistas/login.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/vistas/login.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/vistas/registro-usuario.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/vistas/registro-usuario.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/alojamiento.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/calendario.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/resources/css/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/css/pagina-principal.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/alojamientos/alojamiento1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/alojamientos/alojamiento2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/alojamientos/alojamiento3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/alojamientos/alojamiento4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/centro-medico/Ankara.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/centro-medico/BuenosAires.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/centro-medico/Shanghai.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/icon-email.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/marca-pdf.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/planeta-tierra-con-destello-de-luz-4460.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/eei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/encedalo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/europa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/ganimedes.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/io.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/luna.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/marte.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/orbitel-hotel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/resources/images/viajes/titan.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -212,7 +186,9 @@
       <workItem from="1651414566100" duration="421000" />
       <workItem from="1651415864475" duration="4815000" />
       <workItem from="1651529099640" duration="4506000" />
-      <workItem from="1651537168245" duration="3682000" />
+      <workItem from="1651537168245" duration="3872000" />
+      <workItem from="1651612606951" duration="571000" />
+      <workItem from="1651614022750" duration="2622000" />
     </task>
     <servers />
   </component>
